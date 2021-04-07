@@ -4,4 +4,13 @@
     <string name="button_constrain_to_barrier">Constrain To Barrier</string>
     <string name="button_adjust_constraint_bias">Adjust Constraint Bias</string>
     <string name="button_linear_groups">Linear Groups</string>
+    <string name="text_view_adjust_constraint_bias">Adjust Constraint Bias</string>
+    <string name="text_view_adjust_constraint_to_barrier">Constraint To Barrier</string>
+    <string name="text_view_constraint_to_guideline">Constraint To Guideline</string>
+    <string name="text_view_control_linear_groups">Control Linear Groups</string>
+    <string name="button_constraint_to_guideline_a">A</string>
+    <string name="button_constraint_to_barrier_a">A</string>
+    <string name="button_constraint_to_barrier_b">B</string>
+    <string name="button_constraint_to_barrier_c">C</string>
+
 </resources>
