@@ -12,5 +12,6 @@
     <string name="button_constraint_to_barrier_a">A</string>
     <string name="button_constraint_to_barrier_b">B</string>
     <string name="button_constraint_to_barrier_c">C</string>
+    <string name="image_view">Image View</string>
 
 </resources>
