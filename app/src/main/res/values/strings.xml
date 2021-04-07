@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LayoutsApp2</string>
+    <string name="button_constrain_to_guideline">Constrain To Guideline</string>
+    <string name="button_constrain_to_barrier">Constrain To Barrier</string>
+    <string name="button_adjust_constraint_bias">Adjust Constraint Bias</string>
+    <string name="button_linear_groups">Linear Groups</string>
 </resources>
