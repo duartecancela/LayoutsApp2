@@ -13,5 +13,20 @@
     <string name="button_constraint_to_barrier_b">B</string>
     <string name="button_constraint_to_barrier_c">C</string>
     <string name="image_view">Image View</string>
+    <string name="a_1_1_button">A</string>
+    <string name="b_1_2_button">B</string>
+    <string name="c_1_3_button">C</string>
+
+    <string name="a_2_1_button">A</string>
+    <string name="b_2_2_button">B</string>
+    <string name="c_2_3_button">C</string>
+
+    <string name="a_3_1_button">A</string>
+    <string name="b_3_2_button">B</string>
+    <string name="c_3_3_button">C</string>
+
+    <string name="a_4_1_button">A</string>
+    <string name="b_4_2_button">B</string>
+    <string name="c_4_3_button">C</string>
 
 </resources>
